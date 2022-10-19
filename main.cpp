@@ -1,4 +1,8 @@
 //Om Namah Shiva
+/**
+*	AUTHOR: Jaideep Sharma
+*	GITHUB: camperjett
+*/
 #include <bits/stdc++.h>
 using namespace std;
 
